@@ -7,7 +7,7 @@ import shutil
 import subprocess
 import platform
 
-
+# Main function
 def main():
     BcPath = "C:\\\"Program Files (x86)\"\\\"Beyond Compare 3\"\\BCompare.exe"
     parser = argparse.ArgumentParser()
